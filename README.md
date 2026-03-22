@@ -339,7 +339,7 @@ Live app working at https://a1-frontend-j9q5.onrender.com
  
 ---
 
-### Step B4 - Verify Auto-Deploy on Git Push
+<!-- ### Step B4 - Verify Auto-Deploy on Git Push
 
 To confirm that auto-deploy is working, a small change was pushed to GitHub:
 
@@ -353,7 +353,7 @@ After the push, Render automatically detected the new commit and started rebuild
 
 > 📸 Screenshot: Render dashboard showing "Deploy in progress" automatically triggered by git push
 > 📸 Screenshot: Deploy logs showing new Docker image being built from the updated code
-> 📸 Screenshot: Both services back to "Live" after auto-deploy completes
+> 📸 Screenshot: Both services back to "Live" after auto-deploy completes -->
 
 ---
 
